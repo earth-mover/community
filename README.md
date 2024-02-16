@@ -12,5 +12,5 @@ This repo is for community support for Arraylake.
 
 Join our Community slack to connect with other users and ask casual questions.
 
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/earthmover-community/shared_invite/zt-24ngrnxpy-vgvERIdS6SAZ5ZYx3Gs1DQ
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/earthmover-community/shared_invite/zt-2cwje92ir-xU3CfdG8BI~4CJOJy~sceQ
 )
